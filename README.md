@@ -3,6 +3,7 @@
 ================================
 
 a. What is an issue?
+
 Issues are used to track todos, bugs, feature requests, and more. - a project management tool 
 
 b. What is a pull request?
